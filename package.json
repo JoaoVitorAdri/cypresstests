@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  
+    
+  "author": "João Vitor Adriano",
+  "license": "",
+  "homepage": "",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+ 
+
+
+}
+
+
